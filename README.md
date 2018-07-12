@@ -5,11 +5,11 @@ Bottom line:
 
      xrun -snprecom "set e2hdl checks" monitor_ver_2.sv checker.e -exit
 
-Title : e2hdl compatibility check 
-Version : 1.0
-Requires : Specman {17.04..}
-Modified : July 2018
-Description :
+* Title : e2hdl compatibility check 
+* Version : 1.0
+* Requires : Specman {17.04..}
+* Modified : July 2018
+* Description :
 
 [ More e code examples in https://github.com/efratcdn/spmn-e-utils ]
 
